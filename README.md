@@ -6,10 +6,10 @@ Canvas based animation for a potential game. Built using HTML5 and Canvas API.
 
 Clone this repo
 Add the following to your .html file
-`js <script src="/path/to/invasion/dist/invasion.min.js"></script>`
+`<script src="/path/to/invasion/dist/invasion.min.js"></script>`
 
 or 
-run `js npm install` and go to `localhost:3000`
+run `npm install` and go to `localhost:3000`
 
 
 ### Initialization and configuration
