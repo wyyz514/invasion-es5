@@ -1,5 +1,4 @@
 ## Invasion
-============
 
 Canvas based animation for a potential game. Built using HTML5 and Canvas API.
 
