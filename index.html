@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <div id="root"></div>
+        <script src="/dist/invasion.min.js"></script>
+        <script>
+            new Invasion(20, 15, "#fff", 15, "#64B5F6").draw();
+        </script>
+        <style>
+            body {
+                margin: 0 !important;
+                background-color: #222;
+            }
+            
+            #root {
+                position: fixed;
+                top: 0;
+                left: 0;
+            }
+        </style>
+    </body>
+</html>
