@@ -14,7 +14,7 @@ or
 
 run
 
-`npm install` and go to `localhost:3000`
+`npm install` and go to `localhost:3000` after running `npm start`
 
 
 ### Initialization and configuration
